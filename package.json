@@ -1,5 +1,6 @@
 {
     "name": "zapo-js",
+  "private": true,
     "version": "1.11.0",
     "description": "High-performance WhatsApp Web TypeScript library",
     "license": "MIT",
